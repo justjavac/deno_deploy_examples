@@ -4,10 +4,10 @@
 [![license](https://img.shields.io/github/license/justjavac/deno_deploy_examples)](https://github.com/justjavac/deno_deploy_examples/blob/master/LICENSE)
 [![](https://img.shields.io/badge/deno-v1.8-green.svg)](https://github.com/denoland/deno)
 
-Deno 官方提供了一个类似 Cloudflare Workers 的 Serverless 平台，让开发者可以轻松的部署 Deno 代码。代码的默认部署域名为
-`{project_name}-{deployment_id}.deno.dev`。
+Deno 官方提供了一个类似 Cloudflare Workers 的 Serverless 平台，让开发者可以轻松的部署 Deno 代码。
 
-**注**：去年我注册了 deno.dev 域名，随后将其送给了 ry。
+**注**：去年我注册了 deno.dev 域名，随后将其送给了 ry。目前此域名用于代码部署服务，代码的默认部署域名为
+`{project_name}-{deployment_id}.deno.dev`。
 
 ## 步骤
 
