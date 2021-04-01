@@ -46,5 +46,7 @@ addEventListener("fetch", (event: FetchEvent) => {
 4. 本地启动服务
 
 ```shell
-eployctl run --watch ./mod.ts
+deployctl run --no-check --watch ./mod.ts
 ```
+
+⚠️ 目前需要添加 `--no-check` 参数。
